@@ -6,13 +6,13 @@
 ## Development Environment
 
 ### Hardware
-- GPU: Tesla T4 (Google Colab)
-- CUDA Support: Available (1 device)
+- **GPU:** Tesla T4 (Google Colab)
+- **CUDA Support:** Available (1 device)
 
 ### Software Stack
-- Python: 3.12.11
-- PyTorch: 2.8.0+cu126 (CUDA-enabled)
-- Jupyter Notebook: Configured and operational
+- **Python:** 3.12.11
+- **PyTorch:** 2.8.0+cu126 (CUDA-enabled)
+- **Jupyter Notebook:** Configured and operational
 
 ### Environment Status
 - ✅ PyTorch successfully imported and functional  
